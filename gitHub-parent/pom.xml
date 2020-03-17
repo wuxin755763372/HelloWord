@@ -24,7 +24,7 @@
 		<spring-session.version>1.2.0.RELEASE</spring-session.version>
 		<spring-data.version>1.11.0.RELEASE</spring-data.version>
 		<spring-data-redis.version>1.6.0.RELEASE</spring-data-redis.version>
-		<jackson.version>2.6.1</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
 		<aspectj.version>1.8.7</aspectj.version>
 		<slf4j.version>1.7.12</slf4j.version>
 		<log4j2.version>2.3</log4j2.version>
